@@ -1,0 +1,23 @@
+.title
+{
+    
+    width: 200px;
+    text-align: center;
+}
+table
+{
+    padding-top: 10px;
+}
+
+input[type="button"]
+{
+    width: 100%;
+    background-color: black;
+    color: white;
+    border: black solid 2px;
+}
+input[type="text"]
+{
+    width: 100%;
+    border: black solid 2px;
+}
